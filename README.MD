@@ -13,13 +13,13 @@
 
 <h1>Como Rodar</h1>
 
-* É necessário rodar o comando ``npm install`` ou ``yarn install`` em todas as pastas (Frontend, Backend e Mobile) para instalar as dependências.
+* ### É necessário rodar o comando ``npm install`` ou ``yarn install`` em todas as pastas (Frontend, Backend e Mobile) para instalar as dependências.
 
-* Para rodar o Mobile é necessário installar o React-Native Expo, rode o comando ``npm install -g expo-cli`` para instalar.
+* ### Para rodar o Mobile é necessário installar o React-Native Expo, rode o comando ``npm install -g expo-cli`` para instalar.
 
-* Para salvar os dados da aplicação é necessário um cluster MongoDB, assim como conectá-lo na aplicação, pelo arquivo Server.js (Backend).
+* ### Para salvar os dados da aplicação é necessário um cluster MongoDB, assim como conectá-lo na aplicação, pelo arquivo Server.js (Backend).
 
-* Para funcionar corretamento o envio e apresentação das imagens do spot, é necessário configurar corretamente o IP em api.js (Mobile/service).
+* ### Para funcionar corretamento o envio e apresentação das imagens do spot, é necessário configurar corretamente o IP em api.js (Mobile/service).
 
 <br></br>
 
@@ -39,7 +39,7 @@
 
 <h1>TODO</h1>
 
-* Implementar solicitação em tempo real via WebSockets
+* ### Implementar solicitação em tempo real via WebSockets
 
 <br></br>
 
